@@ -2,9 +2,10 @@
 import { defineConfig } from '@rspress/core';
 
 export default defineConfig({
+  base: '/yoyo-engineer-site/',
   root: path.join(__dirname, 'docs'),
   lang: 'zh',
-  title: 'yoyo佑佑 — AI Engineer',
+  title: 'yoyo\u4f51\u4f51 \u2014 AI Engineer',
   icon: '/rspress-icon.png',
   logo: {
     light: '/rspress-light-logo.png',
