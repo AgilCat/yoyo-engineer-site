@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#0a0a0f"/>
+  <rect x="40" y="180" width="100" height="44" rx="8" fill="none" stroke="#2997FF" stroke-width="1.5" opacity="0.8"/>
+  <text x="90" y="207" text-anchor="middle" fill="#2997FF" font-size="9" font-family="monospace">DVC</text>
+  <rect x="40" y="250" width="100" height="44" rx="8" fill="none" stroke="#2997FF" stroke-width="1.5" opacity="0.8"/>
+  <text x="90" y="277" text-anchor="middle" fill="#2997FF" font-size="9" font-family="monospace">Data</text>
+  <rect x="200" y="140" width="100" height="44" rx="8" fill="none" stroke="#0071E3" stroke-width="1.5" opacity="0.8"/>
+  <text x="250" y="167" text-anchor="middle" fill="#0071E3" font-size="9" font-family="monospace">Kubeflow</text>
+  <rect x="200" y="220" width="100" height="44" rx="8" fill="none" stroke="#0071E3" stroke-width="1.5" opacity="0.8"/>
+  <text x="250" y="247" text-anchor="middle" fill="#0071E3" font-size="9" font-family="monospace">Training</text>
+  <rect x="200" y="300" width="100" height="44" rx="8" fill="none" stroke="#0071E3" stroke-width="1.5" opacity="0.8"/>
+  <text x="250" y="327" text-anchor="middle" fill="#0071E3" font-size="9" font-family="monospace">MLflow</text>
+  <rect x="380" y="180" width="120" height="44" rx="8" fill="none" stroke="#2997FF" stroke-width="1.5" opacity="0.8"/>
+  <text x="440" y="207" text-anchor="middle" fill="#2997FF" font-size="9" font-family="monospace">Model Reg</text>
+  <rect x="380" y="260" width="120" height="44" rx="8" fill="none" stroke="#2997FF" stroke-width="1.5" opacity="0.8"/>
+  <text x="440" y="287" text-anchor="middle" fill="#2997FF" font-size="9" font-family="monospace">A/B Test</text>
+  <rect x="580" y="140" width="100" height="44" rx="8" fill="none" stroke="#0071E3" stroke-width="1.5" opacity="0.8"/>
+  <text x="630" y="167" text-anchor="middle" fill="#0071E3" font-size="9" font-family="monospace">K8s Deploy</text>
+  <rect x="580" y="220" width="100" height="44" rx="8" fill="none" stroke="#0071E3" stroke-width="1.5" opacity="0.8"/>
+  <text x="630" y="247" text-anchor="middle" fill="#0071E3" font-size="9" font-family="monospace">Serving</text>
+  <rect x="580" y="300" width="100" height="44" rx="8" fill="none" stroke="#0071E3" stroke-width="1.5" opacity="0.8"/>
+  <text x="630" y="327" text-anchor="middle" fill="#0071E3" font-size="9" font-family="monospace">Monitor</text>
+  <rect x="740" y="200" width="40" height="44" rx="6" fill="#0071E3" opacity="0.15"/>
+  <text x="760" y="227" text-anchor="middle" fill="#0071E3" font-size="8" font-family="monospace">Live</text>
+  <line x1="140" y1="202" x2="200" y2="162" stroke="#2997FF" stroke-width="1" opacity="0.4"/>
+  <line x1="140" y1="272" x2="200" y2="242" stroke="#2997FF" stroke-width="1" opacity="0.4"/>
+  <line x1="140" y1="272" x2="200" y2="322" stroke="#2997FF" stroke-width="1" opacity="0.4"/>
+  <line x1="300" y1="162" x2="380" y2="202" stroke="#0071E3" stroke-width="1" opacity="0.4"/>
+  <line x1="300" y1="242" x2="380" y2="202" stroke="#0071E3" stroke-width="1" opacity="0.4"/>
+  <line x1="300" y1="322" x2="380" y2="282" stroke="#0071E3" stroke-width="1" opacity="0.4"/>
+  <line x1="500" y1="202" x2="580" y2="162" stroke="#2997FF" stroke-width="1" opacity="0.4"/>
+  <line x1="500" y1="282" x2="580" y2="242" stroke="#2997FF" stroke-width="1" opacity="0.4"/>
+  <line x1="680" y1="162" x2="740" y2="210" stroke="#0071E3" stroke-width="1" opacity="0.4"/>
+  <line x1="680" y1="242" x2="740" y2="225" stroke="#0071E3" stroke-width="1" opacity="0.4"/>
+  <line x1="680" y1="322" x2="740" y2="240" stroke="#0071E3" stroke-width="1" opacity="0.4"/>
+  <text x="400" y="420" text-anchor="middle" fill="#86868B" font-size="11" font-family="monospace" letter-spacing="2">END-TO-END MLOPS PLATFORM</text>
+</svg>
